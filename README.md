@@ -12,15 +12,6 @@
 <a href="https://app.daily.dev/alpharoger"><img src="https://api.daily.dev/devcards/v2/beLmIM7BxyNIWWmtcix1I.png?type=wide&r=hfy" width="652" alt="Alpha Roger's Dev Card"/></a>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://app.daily.dev/alpharoger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://app.daily.dev/alpharoger" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://in.linkedin.com/in/anshuman-ambastha-62bb6930b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/anshuman-ambastha-62bb6930b" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://anshumansinha.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://anshumansinha.hashnode.dev/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/anshumansinhadto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/anshumansinhadto" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/anshumansinha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/anshumansinha/" height="30" width="40" /></a>
-</p>
-
 
 <h2 id="badge-title">Open Source Contributions (GSSOC(24), Hacktoberfest2024) Badges 🪶</h2> 
 <div
