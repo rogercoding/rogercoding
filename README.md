@@ -9,10 +9,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rogercoding&" alt="rogercoding" /></p>
 
-<a href="https://app.daily.dev/alpharoger"><img src="https://api.daily.dev/devcards/v2/beLmIM7BxyNIWWmtcix1I.png?type=wide&r=hfy" width="652" alt="Alpha Roger's Dev Card"/></a>
-
-
-
 <h2 id="badge-title">Open Source Contributions (GSSOC(24), Hacktoberfest2024) Badges 🪶</h2> 
 <div
   <a href="https://www.linkedin.com/posts/anshuman-sinha-b32041204_im-happy-to-share-that-ive-obtained-a-new-activity-7259560895775727616-Yn1M?utm_source=share&utm_medium=member_android" target="_blank" rel="noopener noreferrer">
