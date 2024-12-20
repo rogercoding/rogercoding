@@ -5,7 +5,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rogercoding&show_icons=true&locale=en" alt="rogercoding" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rogercoding&" alt="rogercoding" /></p>
-
 
 
