@@ -184,11 +184,6 @@ Successfully completed coursework covering object-oriented programming, algorith
 
 ---
 
-# 🏆 GitHub Trophies  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anshumansinha3301&theme=aura&margin-w=15&row=3&column=6&no-frame=true">
-</div>
-
 # 📊 GitHub Statistics  
 <div align="center">
 <table>
