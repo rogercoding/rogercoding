@@ -4,338 +4,207 @@
 <h2 align="center">Decision Scientist • Founder & CEO • Software Developer • Competitive Programmer</h2>
 
 <p align="center">
-  <b>Founder @ Bitfusion Dynamics Research • CEO @ Xyphor Advisors • BCA @ Amity University Patna</b><br>
-  <b>Data Science • Machine Learning • DSA • System Design • Research • AI Strategy • Consulting</b>
+  <b>Founder – Bitfusion Dynamics Research • CEO – Xyphor Advisors • BCA – Amity University Patna</b><br>
+  <b>Machine Learning • Data Science • System Design • DSA • Analytics • Engineering • Strategy</b>
 </p>
 
 ---
 
-# 🧭 Professional Introduction
+# 🧭 Professional Overview
 
-Hello! I'm **Anshuman Sinha**, an India-based **Decision Scientist**, **Research Founder**, and **Software Developer** exploring the deep intersection of:
+I am **Anshuman Sinha**, a decision scientist and software developer with a strong foundation in computer science, analytical modeling, and research-driven engineering. My work spans across building intelligent systems, designing analytical frameworks, and creating high-performance solutions that solve complex real-world challenges. I approach technology with a blend of mathematical thinking, structured design principles, and practical business understanding, allowing me to work effectively across both technical and strategic domains.
 
-- Data Science & Artificial Intelligence  
-- Computational Finance & Low-Latency Systems  
-- Quantitative Research & Mathematical Modeling  
-- Business Strategy & Economic Intelligence  
-- Software Engineering & Systems Architecture  
-- Competitive Programming & Algorithmic Thinking  
+My interests cover a wide spectrum of advanced computing topics, including machine learning, quantitative modeling, computational biology, high-performance systems, and modern software development. Over time, I have developed a style of engineering that focuses on clarity, optimization, and long-term maintainability. Every system I design aims to be robust, reliable, scalable, and grounded in a deep understanding of data and algorithms.
 
-I specialize in **turning complex real-world problems into computationally efficient, scalable, and research-driven solutions**.
-
-I believe in building systems that combine:
-
-- **Mathematical Rigor**  
-- **Algorithmic Precision**  
-- **Scientific Research**  
-- **Industry Application**  
-- **Human-Centric Design**
-
-I am also a **multi-domain researcher**, actively contributing to:
-
-- Financial Computing  
-- Predictive Modeling  
-- Computational Genetics  
-- Data Visualization  
-- Real-Time Market Intelligence  
-- Analytical Decision Systems  
+I enjoy exploring areas where analytical reasoning meets software engineering—whether it is building predictive models, designing low-latency architectures, constructing dashboards that reveal hidden insights, or guiding organizations through data-driven transformation. I believe in continuous learning, disciplined problem-solving, and creating tools that make sense of complexity.
 
 ---
 
-# 🛡️ Roles I Play
+# 🛡️ What I Do
 
-### 🧠 Decision Scientist  
-I apply AI, statistical modeling, and optimization to solve business, finance, and market problems.
+### 🧠 Decision Science  
+I work with data-driven reasoning, statistical models, quantitative logic, and ML-based intelligence systems to guide decisions in business, finance, and operational contexts. This includes forecasting, risk analysis, optimization, scenario exploration, and structured decision frameworks backed by solid mathematical foundations.
 
-### 🧑‍💻 Software Developer  
-I design end-to-end systems — from client-side UX to backend microservices and algorithmic engines.
+### 💻 Software Development  
+I build systems end-to-end—from UI and APIs to backend logic, data processing pipelines, and deployment-ready applications. My experience covers Python, Java, C++, Rust, JavaScript, and modern frameworks. I focus on scalability, performance, code clarity, and well-organized architecture.
 
-### 👨‍💼 Founder & CEO  
-I lead **Bitfusion Dynamics Research** and **Xyphor Advisors**, focusing on innovation, analytics, and consulting.
+### 🧩 Systems & Algorithms  
+I apply algorithms, data structures, computational efficiency, and system design to solve high-complexity engineering problems. This includes designing multi-threaded pipelines, optimizing code paths, and improving performance in analytical systems.
 
-### 🧮 Competitive Programmer  
-Active across LeetCode, GFG, Coding Ninjas, and HackerRank with top percentile ranks.
+### 🧑‍💼 Leadership  
+As the founder of two independent organizations—Bitfusion Dynamics Research and Xyphor Advisors—I manage teams, design processes, direct research initiatives, and oversee consulting projects that involve market analysis, financial modeling, and large-scale analytics.
+
+### 🧮 Competitive Programming  
+I participate in coding platforms and contests, sharpening my ability to think logically, solve problems rapidly, and work with deep algorithmic insights. These experiences help refine the way I approach system design and performance engineering.
 
 ---
 
-# 💼 PROFESSIONAL EXPERIENCE (Highly Expanded)
+# 💼 Professional Experience
 
 ## 🛡️ Founder & CEO — Bitfusion Dynamics Research  
 **May 2024 – Present | India**
 
-Bitfusion is a **technical research organization** working at the frontier of:
+Bitfusion Dynamics Research is an initiative built to explore advanced technical fields through structured research, practical experimentation, and collaborative engineering. I established this organization to bring together developers, analysts, and researchers who are interested in working on projects that require rigorous thought and deep technical expertise.
 
-- **Machine Learning Research**  
-- **Quantitative Finance**  
-- **Computational Biology**  
-- **High-Performance Computing**  
-- **Systems Programming**  
-- **Data Engineering Pipelines**  
+### Focus Areas  
+The work at Bitfusion spans machine learning models, quantitative finance tools, genetic data simulations, high-performance computation, and complex pipeline architectures. Projects include intelligent algorithms, exploratory analytics systems, multi-layer data engines, and software tools built to solve real-world analytical challenges.
 
-### Leadership & Achievements
+### Responsibilities  
+I design core frameworks, supervise architectural decisions, lead research development cycles, review code, and ensure that every system we produce aligns with standards of accuracy and clarity. I also develop workflows for documentation, reproducibility, testing, and long-term maintainability.
 
-- Built a multi-disciplinary team of researchers & developers  
-- Designed frameworks for **low-latency financial systems**  
-- Conducted internal research in **computational genetics**  
-- Supervised enterprise software & ML model development  
-- Published analytics reports & libraries  
-- Developed R&D workflows, documentation & pipeline automation  
-- Mentored developers in DSA, system design, and ML  
-- Proposed new architectures for multi-threaded decision systems  
-
-### Tech Influence
-
-- Strong focus on **Python, C++, Rust, Java**  
-- Built research-grade visualizations  
-- Developed prototypes that integrate **AI + Finance + Biology**
+### Impact  
+The organization acts as a bridge between theory and application—transforming equations, models, and conceptual ideas into practical, functioning engineering systems. This includes designing simulation engines, low-latency algorithms, visual analysis layers, and computational research tools.
 
 ---
 
 ## 🛡️ Founder & CEO — Xyphor Advisors  
-**May 2025 – Present | Patna, Bihar**
+**May 2025 – Present | Patna, India**
 
-A professional consulting company specializing in:
+Xyphor Advisors is a consulting and strategy-focused organization dedicated to business intelligence, market insights, financial research, and analytic decision systems. As the CEO, I lead consulting engagements built on analytical rigor and data-backed reasoning.
 
-- **Data Analytics Consulting**  
-- **Market & Economic Intelligence**  
-- **Business Strategy Optimization**  
-- **Competitive Benchmarking**  
-- **AI-Based Decision Models**  
-- **Predictive Analysis for Businesses**  
+### Work Areas  
+I design analytical dashboards, forecasting systems, competitive benchmarking frameworks, and research-driven business strategies. My work involves understanding market dynamics, interpreting economic indicators, building projections, and converting raw data into structured insights.
 
-### Key Highlights
-
-- Developed industry-grade predictive dashboards  
-- Built competitive market frameworks  
-- Delivered strategic insights for small and medium-sized enterprises  
-- Designed consulting frameworks powered by AI  
-- Implemented workflow systems using MySQL + Python  
+### Systems Built  
+I have developed tools that incorporate MySQL databases, Python analytics engines, and interactive visualization dashboards. These systems enable organizations to examine performance trends, compare competitive landscapes, assess risk exposure, and make thoughtful, informed decisions.
 
 ---
 
 ## 🛡️ Software Engineer — Safetitude Consulting LLP  
-**Jun 2024 – Aug 2024 | On-Site, Nagpur**
+**Jun 2024 – Aug 2024 | Nagpur, India**
 
-Role centered around:
+At Safetitude, I contributed to fintech-focused software development efforts involving high-precision algorithms, structured backend modules, and performance-oriented engineering.
 
-- Building high-speed financial algorithms  
-- Optimizing computations for enterprise-scale fintech  
-- Producing scalable modules using DSA  
-- Implementing efficient data-handling techniques  
+### Contributions  
+I developed calculation engines using Java, implemented efficient data structures, optimized algorithms for large-scale computation, and improved system performance by minimizing bottlenecks. My work emphasized clarity, reliability, and efficient resource utilization.
 
-### Responsibilities
-
-- Developed robust Java-based algorithmic calculators  
-- Reduced execution times using optimized data structures  
-- Created reusable components integrating with large codebases  
-- Used GitHub/GitLab for CI/CD code reviews  
+### Collaboration  
+The engineering workflows included version control, collaborative reviews, team-based iteration, and ensuring code consistency across large codebases.
 
 ---
 
 ## 🌐 Open Source Contributor — Hacktoberfest  
-**Oct 2024 — Global Remote**
+**Remote | Global**
 
-- Built backend logic for financial applications  
-- Designed Tkinter-based GUI workflows  
-- Created DBMS-integrated components  
-- Automated large-scale reporting and dashboards  
+During Hacktoberfest, I worked on open-source projects involving financial tools, desktop interfaces, database automation, and cross-platform logic systems. I contributed backend logic, interface modules, schema design patterns, and workflow improvement systems.
 
 ---
 
-## 🤖 Open Source Developer — Major League Hacking  
-**Oct 2024 — Global**
+## 🤖 Developer — Major League Hacking (MLH)  
+**Remote | Global**
 
-- Developed Rust-powered low-latency trading algorithms  
-- Worked on Python pipelines for real-time data processing  
-- Designed predictive analytics systems for markets  
-- Built multi-threaded processors for high-frequency workloads  
+At MLH, I contributed to projects involving trading models, real-time market pipelines, concurrency-based engines, and analytical algorithms designed to handle high-volume data streams.
+
+### Work  
+This included developing systems with Rust and Python, designing low-latency flows, structuring computational logic, and ensuring that models operated reliably under demanding workloads.
 
 ---
 
 ## 📊 Data Science Intern — Xyphor Advisors  
-**Jun 2025 – Jul 2025 | On-Site**
+**Jun 2025 – Jul 2025 | Patna, India**
 
-- Developed dashboard-based analytics platforms  
-- Built client-friendly business intelligence tools  
-- Integrated MySQL with visualization engines  
-- Produced actionable reports using ML & visualization  
+I developed analytics-driven platforms for consulting, designed ML-based recommendation engines, built dashboards, automated reporting pipelines, and integrated MySQL data flows with real-time visualization systems. The goal was to enable decision-makers to explore and interpret complex information easily.
 
 ---
 
-# 🎓 EDUCATION (Expanded)
+# 🎓 Education
 
-### 🎓 Bachelor of Computer Applications  
-**Amity University, Patna (2023–2026)**  
-- Top 5% of Batch  
-- Coursework includes:  
-  - Data Structures  
-  - System Design  
-  - Machine Learning  
-  - Operating Systems  
-  - DBMS  
-  - Cloud & Microservices (Electives)  
-  - Computational Mathematics  
+### BCA — Amity University, Patna  
+**2023–2026**  
+My studies here have included data structures, algorithms, system architecture, machine learning fundamentals, mathematics for computing, operating systems, database management, and cloud infrastructure topics. I maintain a strong academic record and apply classroom learning in practical research and development projects.
 
-### 🎓 Class 12 — Science (Medical + IP + Fine Arts)  
-**DAV Public School (2022–2023)**  
-- Rank 6 in Science Batch  
+### Class 12 — DAV Public School  
+**Science Stream**  
+Coursework included biology, information practices, fine arts, and applied mathematics, providing a well-rounded combination of analytical and creative skillsets.
 
-### 🎓 Class 10 — CBSE  
-**DAV Public School (2020–2021)**  
-- Top 5% scorer  
+### Class 10 — DAV Public School  
+Graduated with distinction and consistently ranked in the top academic performers.
 
 ---
 
-# 🏆 ACHIEVEMENTS — EXTENDED
+# 🏆 Achievements
 
-- 🥇 **Top 4.2% LeetCode Global Ranking**  
-- ⭐ **Former Rank 1 — GFG Amity University Leaderboard**  
-- 🥈 **Top 0.5% SQL — Coding Ninjas Sensei Rank**  
-- 🧠 **Qualified — International Computer Science Competition (ICSC) 2025**  
-- 💻 **3200+ GitHub contributions (2023–2024)**  
-- 🏅 **5★ Python — HackerRank**  
-- 📝 **Open Source Contributor — DigitalOcean, Hacktoberfest**  
-- 👨‍💻 **MLH Open Source Developer**  
-- 🏁 **ICPC Kanpur Regional Hackathon — Contender**  
-- 🏆 **School-level topper (Science Olympiad Foundation)**  
-- 🏅 **English Scholar Olympiad — Topper**  
+- Ranked among the top performers on major competitive programming platforms, including top percentiles on LeetCode and GeeksforGeeks.  
+- Achieved high distinction in SQL, Python, and problem-solving categories on multiple coding platforms.  
+- Qualified for international competitions and hackathons, demonstrating strong analytical reasoning and algorithmic proficiency.  
+- Significant contributions across GitHub projects, maintaining a consistent commit history and active development schedule.  
+- Recognized as a top coder, contributor, and participant in community-driven technical events across multiple years.
 
 ---
 
-# 🚀 FEATURED PROJECTS (Expanded Descriptions)
+# 🚀 Featured Projects
 
-## 🩺 Health Analyser App  
-A real-time ML-powered healthcare analysis tool.  
-🔗 https://healthanalyser.streamlit.app/  
+## Health Analyser App  
+A Streamlit-based interactive application that evaluates health metrics using structured algorithms, predictive analysis, and clear visualizations.  
+🔗 https://healthanalyser.streamlit.app/
 
-Core Features:  
-- Personalized health predictions  
-- Data-driven insights  
-- Visualization & medical metrics mapping  
+## Xyphor Advisors — Consulting Website  
+A responsive, streamlined corporate website built to present services, insights, and organizational identity through modern UI design.  
+🔗 https://xyphoradvisors.netlify.app/
 
----
+## StoneForge — Mining Operations Platform  
+Designed for industry clients needing clean presentation, accessible navigation, and direct service information.  
+🔗 https://stoneforge.netlify.app/
 
-## 💼 Xyphor Advisors – Corporate Website  
-Official consulting website.  
-🔗 https://xyphoradvisors.netlify.app/  
-
----
-
-## ⛏️ StoneForge – Mining Operations Platform  
-A website built for mining clients.  
-🔗 https://stoneforge.netlify.app/  
+## Portfolio & Business Health Analysis  
+An analytical tool for examining investments, business conditions, and financial indicators.  
+🔗 https://anshumanproject.streamlit.app/
 
 ---
 
-## 📊 Portfolio & Business Health Analysis Platform  
-A dashboard-based equity & business analysis engine.  
-🔗 https://anshumanproject.streamlit.app/  
+# 🛠️ Technical Skills
+
+### Programming  
+Python, Java, C++, Rust, JavaScript
+
+### Frontend  
+HTML5, CSS3, JavaScript, Bootstrap, React
+
+### Backend  
+Node.js, Express.js
+
+### Databases  
+MySQL, MongoDB
+
+### Data Science  
+NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, YFinance
+
+### Tools  
+GitHub, GitLab, VS Code, Vercel, Netlify
 
 ---
 
-## 🧠 MNIST Neural Network  
-Deep learning model for handwritten digit classification.  
+# 📜 Certifications
+
+### Postman API Fundamentals  
+Validated capability in working with REST principles, endpoint structures, and API workflows used across collaborative environments.
+
+### Programming in Java – NPTEL & IIT Kharagpur  
+Successfully completed coursework covering object-oriented programming, algorithms, program structure, and core computational concepts.
 
 ---
 
-## 🏦 Indian Banking Sector Market Research  
-Trend & performance analysis using ML.  
-
----
-
-# 🛠️ TECH STACK — EXPANDED
-
-### 🧑‍💻 Programming Languages
-- Python  
-- Java  
-- Rust  
-- C++  
-- JavaScript  
-
-### 🌐 Frontend
-- HTML5  
-- CSS3  
-- JavaScript  
-- Bootstrap  
-- React  
-
-### 🖥 Backend
-- Node.js  
-- Express.js  
-
-### 🗄 Databases
-- MySQL  
-- MongoDB  
-
-### 📊 Data Science Tools
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Seaborn  
-- Scikit-Learn  
-- YFinance  
-- Jupyter Notebook  
-- Anaconda  
-
-### 🧰 Developer Tools
-- GitHub  
-- GitLab  
-- VS Code  
-- Vercel  
-- Netlify  
-
----
-
-# 📜 Certifications (Expanded)
-
-### 🏅 Postman API Fundamentals  
-- Strong proficiency in REST APIs  
-- Best practices for industry API workflows  
-
-### 🎓 Programming in Java — NPTEL & IIT Kharagpur  
-- Completed intensive academic module  
-- Deep dive into OOP, DSA, multi-threading  
-
----
-
-# 🏆 GitHub Trophy Wall
-
+# 🏆 GitHub Trophies  
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=anshumansinha3301&theme=aura&margin-w=15&row=3&column=6&no-frame=true">
 </div>
 
----
-
-# 📊 GitHub Analytics
-
+# 📊 GitHub Statistics  
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="195" src="https://github-readme-stats-one-bice.vercel.app/api?username=anshumansinha3301&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true"/>
-      </td>
-      <td>
-        <img height="195" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=anshumansinha3301&layout=compact&hide_border=true"/>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td><img height="195" src="https://github-readme-stats-one-bice.vercel.app/api?username=anshumansinha3301&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true"/></td>
+<td><img height="195" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=anshumansinha3301&layout=compact&hide_border=true"/></td>
+</tr>
+</table>
 </div>
 
----
-
-# 🔥 GitHub Streak Stats
-
+# 🔥 Streak Overview  
 <div align="center">
 <img src="https://nirzak-streak-stats.vercel.app/?user=anshumansinha3301&theme=neon-dark&hide_border=true">
 </div>
 
----
-
-# 🎖 Holopin Badge Collection
-
+# 🎖 Badge Collection  
 [![Holopin](https://holopin.me/anshumansinha3301)](https://holopin.io/@anshumansinha3301)
-
----
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
